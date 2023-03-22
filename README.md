@@ -6,6 +6,6 @@ Cara instal atau clone project??
 - Lalu, cd HomeBudgetApp dan ketik npm install.
 - Untuk menjalankan ketik npm run dev.
 
-Link Demo : budgethomeapp.netlify.app
+Link Demo : https://budgethomeapp.netlify.app
 
 # Semoga berhasil!!
