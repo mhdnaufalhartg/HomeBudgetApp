@@ -91,7 +91,7 @@ const Dashboard = () => {
       {userName ? (
         <div className="dashboard">
           <h1>
-            Welcome back, <span className="green">{userName}</span>
+            Welcome, <span className="green">{userName}</span>
           </h1>
           <div className="grid-sm">
             {budgets && budgets.length > 0 ? (
